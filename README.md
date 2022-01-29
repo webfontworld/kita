@@ -1,5 +1,3 @@
-# kita
-
 # KITA(Kita)
 
 <a href="https://wess.tistory.com/250" target="_blank">
@@ -8,7 +6,7 @@
 
 <pre>
 @font-face {
-    font-family: 'KITA';
+    font-family: 'Kita';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/kita/Kita.eot');
