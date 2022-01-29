@@ -1,7 +1,7 @@
 # KITA(Kita)
 
-<a href="https://wess.tistory.com/250" target="_blank">
-    <img src="https://webfontworld.github.io/kita/KITA.jpg" alt="KITA" style="width:300px">
+<a href="https://wess.tistory.com" target="_blank">
+    <img src="https://webfontworld.github.io/kita/Kita.jpg" alt="Kita" style="width:300px">
 </a>
 
 <pre>
